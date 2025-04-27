@@ -53,3 +53,16 @@ nav {
     text-decoration: none;
     padding: 20px;
 }
+
+.textP1, .textP2 {
+    margin-left: 10px;
+    margin-right: 20px;
+    justify-content: flex-end;
+
+}
+
+.mycontainer {
+    display:flex;
+    background-color: ;
+
+}
